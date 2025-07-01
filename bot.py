@@ -7,7 +7,7 @@ from aiogram.handlers import MessageHandler
 
 # Get token and webapp URL
 TOKEN = os.getenv("TOKEN")
-WEBAPP_URL = "https://yourusername.github.io/your-repo-name/"  # Replace with your actual URL
+WEBAPP_URL = "https://m-sokolov.github.io/tg-guess-game-web/"  # Replace with your actual URL
 
 logging.basicConfig(level=logging.INFO)
 
