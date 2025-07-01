@@ -1,9 +1,1 @@
-services:
-  - type: web
-    name: telegram-guess-bot
-    env: python
-    plan: free
-    buildCommand: ""
-    envVars:
-      - key: TOKEN
-        sync: false
+
